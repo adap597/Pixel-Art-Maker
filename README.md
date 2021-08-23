@@ -15,5 +15,5 @@ This is my final submission for the project. In addition to the base requirement
 
 1. Grid size limit 100 x 100
 2. Start Over Button that deletes the grid
-3. Clear Grid Button clears the grid of any filled squares but maintains the same grid size
+3. Submit Button clears the grid of any filled squares but maintains the same grid size
 4. Double Clicking a filled square removes the color
